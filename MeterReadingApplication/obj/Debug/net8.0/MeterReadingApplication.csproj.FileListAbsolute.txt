@@ -1,0 +1,14 @@
+D:\Documents\C#\MeterReadingApplication\MeterReadingApplication\bin\Debug\net8.0\MeterReadingApplication.exe
+D:\Documents\C#\MeterReadingApplication\MeterReadingApplication\bin\Debug\net8.0\MeterReadingApplication.deps.json
+D:\Documents\C#\MeterReadingApplication\MeterReadingApplication\bin\Debug\net8.0\MeterReadingApplication.runtimeconfig.json
+D:\Documents\C#\MeterReadingApplication\MeterReadingApplication\bin\Debug\net8.0\MeterReadingApplication.dll
+D:\Documents\C#\MeterReadingApplication\MeterReadingApplication\bin\Debug\net8.0\MeterReadingApplication.pdb
+D:\Documents\C#\MeterReadingApplication\MeterReadingApplication\obj\Debug\net8.0\MeterReadingApplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\C#\MeterReadingApplication\MeterReadingApplication\obj\Debug\net8.0\MeterReadingApplication.AssemblyInfoInputs.cache
+D:\Documents\C#\MeterReadingApplication\MeterReadingApplication\obj\Debug\net8.0\MeterReadingApplication.AssemblyInfo.cs
+D:\Documents\C#\MeterReadingApplication\MeterReadingApplication\obj\Debug\net8.0\MeterReadingApplication.csproj.CoreCompileInputs.cache
+D:\Documents\C#\MeterReadingApplication\MeterReadingApplication\obj\Debug\net8.0\MeterReadingApplication.dll
+D:\Documents\C#\MeterReadingApplication\MeterReadingApplication\obj\Debug\net8.0\refint\MeterReadingApplication.dll
+D:\Documents\C#\MeterReadingApplication\MeterReadingApplication\obj\Debug\net8.0\MeterReadingApplication.pdb
+D:\Documents\C#\MeterReadingApplication\MeterReadingApplication\obj\Debug\net8.0\MeterReadingApplication.genruntimeconfig.cache
+D:\Documents\C#\MeterReadingApplication\MeterReadingApplication\obj\Debug\net8.0\ref\MeterReadingApplication.dll

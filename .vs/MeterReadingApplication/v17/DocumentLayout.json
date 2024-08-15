@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Documents\\C#\\MeterReadingApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4654387A-0CBC-47C0-9661-1C846F1C6F0B}|MeterReadingApplication\\MeterReadingApplication.csproj|d:\\documents\\c#\\meterreadingapplication\\meterreadingapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4654387A-0CBC-47C0-9661-1C846F1C6F0B}|MeterReadingApplication\\MeterReadingApplication.csproj|solutionrelative:meterreadingapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4654387A-0CBC-47C0-9661-1C846F1C6F0B}|MeterReadingApplication\\MeterReadingApplication.csproj|d:\\documents\\c#\\meterreadingapplication\\meterreadingapplication\\utilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4654387A-0CBC-47C0-9661-1C846F1C6F0B}|MeterReadingApplication\\MeterReadingApplication.csproj|solutionrelative:meterreadingapplication\\utilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Utilities.cs",
+              "DocumentMoniker": "D:\\Documents\\C#\\MeterReadingApplication\\MeterReadingApplication\\Utilities.cs",
+              "RelativeDocumentMoniker": "MeterReadingApplication\\Utilities.cs",
+              "ToolTip": "D:\\Documents\\C#\\MeterReadingApplication\\MeterReadingApplication\\Utilities.cs",
+              "RelativeToolTip": "MeterReadingApplication\\Utilities.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T03:22:51.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Documents\\C#\\MeterReadingApplication\\MeterReadingApplication\\Program.cs",
+              "RelativeDocumentMoniker": "MeterReadingApplication\\Program.cs",
+              "ToolTip": "D:\\Documents\\C#\\MeterReadingApplication\\MeterReadingApplication\\Program.cs",
+              "RelativeToolTip": "MeterReadingApplication\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAUAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T10:21:08.565Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
