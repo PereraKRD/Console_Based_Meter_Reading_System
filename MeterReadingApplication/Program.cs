@@ -5,9 +5,10 @@ Console.ForegroundColor = ConsoleColor.DarkCyan;
 Console.WriteLine();
 Console.WriteLine();
 
-Console.WriteLine("==== M E T E R   R E A D I N G   S Y S T E M ====");
+Console.WriteLine("         M E T E R   R E A D I N G   S Y S T E M         ");
 Console.WriteLine();
 Console.WriteLine();
+
 
 bool running = true;
 
@@ -17,6 +18,7 @@ while (running)
     Console.Write("Please enter the meter reading: ");
 
     double meterReadingValue;
+    double totalCost = 0;
     bool res = double.TryParse(Console.ReadLine(), out meterReadingValue);
 
     if (res)
@@ -25,11 +27,10 @@ while (running)
         {
             Console.WriteLine("Thank you !!! Have a nice day !!");
             running = false;
-            break;
         }
         else
         {
-            Utilities.ProccessBill(meterReadingValue);
+            Utilities.ProccessBill(meterReadingValue,ref totalCost);
         }
     }
     else

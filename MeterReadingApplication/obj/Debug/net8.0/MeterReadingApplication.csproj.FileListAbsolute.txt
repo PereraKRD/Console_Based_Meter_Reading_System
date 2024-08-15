@@ -12,3 +12,4 @@ D:\Documents\C#\MeterReadingApplication\MeterReadingApplication\obj\Debug\net8.0
 D:\Documents\C#\MeterReadingApplication\MeterReadingApplication\obj\Debug\net8.0\MeterReadingApplication.pdb
 D:\Documents\C#\MeterReadingApplication\MeterReadingApplication\obj\Debug\net8.0\MeterReadingApplication.genruntimeconfig.cache
 D:\Documents\C#\MeterReadingApplication\MeterReadingApplication\obj\Debug\net8.0\ref\MeterReadingApplication.dll
+D:\Documents\C#\MeterReadingApplication\MeterReadingApplication\obj\Debug\net8.0\MeterReadingApplication.sourcelink.json

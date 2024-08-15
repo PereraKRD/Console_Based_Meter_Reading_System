@@ -8,10 +8,12 @@ namespace MeterReadingApplication
 {
     internal class Utilities
     {
-        public static void ProccessBill(double meterReadingValue)
+        public static void ProccessBill(double meterReadingValue, ref double totalCost)
         {
-            double totalCost = 0;
+            
             var fixedCost = ChooseTheFixedCost(meterReadingValue);
+
+
             if (meterReadingValue <= 60)
             {
                 if (meterReadingValue > 30)
