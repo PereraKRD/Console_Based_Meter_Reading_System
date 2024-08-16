@@ -42,6 +42,8 @@ namespace MeterReadingApplication
                 TotalUnitCost = totalUnitCost,
             };
 
+            /*ProccessedBillResponse billResponse1 = billResponse with { FixedCost = 0 };*/
+
             return billResponse;
 
         }
