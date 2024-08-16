@@ -12,29 +12,26 @@ namespace MeterReadingApplication
         {
             double totalUnitCost = 0;
 
-            if (meterReadingValue is  <= 30)
+            switch (meterReadingValue)
             {
-                totalUnitCost += meterReadingValue * 6;
-            }
-            else if (meterReadingValue is > 30 and <= 60)
-            {
-                totalUnitCost += (meterReadingValue - 30) * 9 + (30 * 6);
-            }
-            else if (meterReadingValue is > 60 and <=90)
-            {
-                totalUnitCost += ((meterReadingValue - 60) * 18) + (60 * 15);
-            }
-            else if (meterReadingValue is > 90 and <= 120)
-            {
-                totalUnitCost += ((meterReadingValue - 90) * 30) + (30 * 18) + (60 * 15);
-            }
-            else if (meterReadingValue is > 120 and <= 180)
-            {
-                totalUnitCost += ((meterReadingValue - 120) * 42) + (30 * 30) + (30 * 18) + (60 * 15);
-            }
-            else
-            {
-                totalUnitCost += ((meterReadingValue - 180) * 65) + (60 * 42) + (30 * 30) + (30*18) + (60*15);
+                case <= 30:
+                    totalUnitCost += meterReadingValue * 6;
+                    break;
+                case > 30 and <= 60:
+                    totalUnitCost += (meterReadingValue - 30) * 9 + (30 * 6);
+                    break;
+                case > 60 and <= 90:
+                    totalUnitCost += (meterReadingValue - 60) * 18 + (60 * 15);
+                    break;
+                case > 90 and <= 120:
+                    totalUnitCost += (meterReadingValue - 90) * 30 + (30 * 18) + (60 * 15);
+                    break;
+                case > 120 and <= 180:
+                    totalUnitCost += (meterReadingValue - 120) * 42 + (30 * 30) + (30 * 18) + (60 * 15);
+                    break;
+                default:
+                    totalUnitCost += (meterReadingValue - 180) * 65 + (60 * 42) + (30 * 30) + (30 * 18) + (60 * 15);
+                    break;
             }
 
             var fixedCost = ChooseTheFixedCost(meterReadingValue);

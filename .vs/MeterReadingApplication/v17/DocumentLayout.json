@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{4654387A-0CBC-47C0-9661-1C846F1C6F0B}|MeterReadingApplication\\MeterReadingApplication.csproj|solutionrelative:meterreadingapplication\\utilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4654387A-0CBC-47C0-9661-1C846F1C6F0B}|MeterReadingApplication\\MeterReadingApplication.csproj|d:\\documents\\c#\\meterreadingapplication\\meterreadingapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4654387A-0CBC-47C0-9661-1C846F1C6F0B}|MeterReadingApplication\\MeterReadingApplication.csproj|solutionrelative:meterreadingapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4654387A-0CBC-47C0-9661-1C846F1C6F0B}|MeterReadingApplication\\MeterReadingApplication.csproj|d:\\documents\\c#\\meterreadingapplication\\meterreadingapplication\\proccessedbillresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4654387A-0CBC-47C0-9661-1C846F1C6F0B}|MeterReadingApplication\\MeterReadingApplication.csproj|solutionrelative:meterreadingapplication\\proccessedbillresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4654387A-0CBC-47C0-9661-1C846F1C6F0B}|MeterReadingApplication\\MeterReadingApplication.csproj|d:\\documents\\c#\\meterreadingapplication\\meterreadingapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4654387A-0CBC-47C0-9661-1C846F1C6F0B}|MeterReadingApplication\\MeterReadingApplication.csproj|solutionrelative:meterreadingapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +26,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "ProccessedBillResponse.cs",
               "DocumentMoniker": "D:\\Documents\\C#\\MeterReadingApplication\\MeterReadingApplication\\ProccessedBillResponse.cs",
               "RelativeDocumentMoniker": "MeterReadingApplication\\ProccessedBillResponse.cs",
@@ -45,14 +45,14 @@
               "RelativeDocumentMoniker": "MeterReadingApplication\\Utilities.cs",
               "ToolTip": "D:\\Documents\\C#\\MeterReadingApplication\\MeterReadingApplication\\Utilities.cs",
               "RelativeToolTip": "MeterReadingApplication\\Utilities.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAA4AAAA",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwCAAAABbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-15T03:22:51.748Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Documents\\C#\\MeterReadingApplication\\MeterReadingApplication\\Program.cs",
               "RelativeDocumentMoniker": "MeterReadingApplication\\Program.cs",
@@ -60,8 +60,7 @@
               "RelativeToolTip": "MeterReadingApplication\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-14T10:21:08.565Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-14T10:21:08.565Z"
             }
           ]
         }
