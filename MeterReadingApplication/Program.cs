@@ -35,6 +35,8 @@ do
         Console.WriteLine($"Fixed Charge (Rs.)      : {proccessedBill.FixedCost}");
         Console.WriteLine($"Total Bill (Rs.)        : {proccessedBill.TotalAmount}");
         Console.WriteLine();
+
+        //Console.WriteLine(proccessedBill.ToString());
     }
     else
     {
