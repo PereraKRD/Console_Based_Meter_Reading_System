@@ -2,7 +2,7 @@
 
 internal sealed record ProccessedBillResponse
 {
-    public double TotalUnitCost { get; set; } 
-    public double FixedCost { get; set; } 
+    public required double TotalUnitCost { get; init; } 
+    public required double FixedCost { get; init; } 
     public double TotalAmount => TotalUnitCost + FixedCost;
 }
